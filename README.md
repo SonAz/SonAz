@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🛠️ Favorite Tools & Technologies
+Languages Python Java C++ R HTML CSS JavaScript SQL
+
+Machine Learning & AI PyTorch TensorFlow Keras Scikit-Learn Matplotlib
+
+Frontend & Backend Development React NodeJS FastAPI
+
+Data Engineering Apache Spark Apache Kafka
+
+Databases MySQL MongoDB
+
+Other Tools Vim Git
