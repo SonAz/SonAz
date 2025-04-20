@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 <!-- Place this in your README.md -->
 
+<h1 align="center" style="color:#ff69b4;"><a href="https://www.linkedin.com/in/sonaz2804">Hello! I'm Sơn</h1>
+<p align="center"><i style="color:#9370DB;">I'm a self-taught passionate AI developer from Vietnam :)</i></p>
+
 
 ### Hi there 👋 
 ! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense. Beside that, I'm a self-taught passionate AI developer from VietNam
