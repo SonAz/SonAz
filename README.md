@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense
 
 <!--
 **SonAz/SonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
