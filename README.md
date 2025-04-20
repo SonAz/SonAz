@@ -1,5 +1,3 @@
-## Hi there 👋 
-! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense
 
 <!--
 **SonAz/SonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Place this in your README.md -->
 
 
+### Hi there 👋 
+! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense.I'm a self-taught passionate AI developer from VietNam
+
+**About me**
 ### 📈 Statistics
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonAz&theme=radical)
 
