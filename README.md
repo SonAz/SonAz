@@ -26,3 +26,5 @@ Data Engineering Apache Spark Apache Kafka
 Databases MySQL MongoDB
 
 Other Tools Vim Git
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
