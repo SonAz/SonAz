@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋 
-! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense. Beside that, I'm a self-taught passionate AI developer from VietNam
+! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense.
 
 **About me**
 ### 📈 Statistics
