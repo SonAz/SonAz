@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center" style="color:#ff69b4;"><a href="https://www.linkedin.com/in/sonaz2804">Hello! I'm Sơn</h1>
 <p align="center"><i style="color:#9370DB;">I'm a self-taught passionate AI developer from Vietnam :)</i></p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+## ✨ GitHub Stats   
 
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 ### Hi there 👋 
 ! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense.
-
 **About me**
 ### 📈 Statistics
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonAz&theme=radical)
