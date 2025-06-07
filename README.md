@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 | **AI**                 | **Machine Learning**  | **Deep Learning**   |
 |------------------------|-----------------------|---------------------|
 | **Data Analysis**      | **Data Engineering**  | **Data Science**    |
-| **Security**           | 
 
 ## Badges & Tools Overview
 
