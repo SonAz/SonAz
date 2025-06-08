@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 <!-- Place this in your README.md -->
 
 <h1 align="center" style="color:#ff69b4;"><a href="https://www.linkedin.com/in/sonaz2804">Hello! I'm Sơn</h1>
-<p align="center"><i style="color:#9370DB;">I'm a self-taught passionate AI developer from Vietnam :)</i></p>
+<p align="center"><i style="color:#9370DB;"> I am a passionate self-taught data student from Vietnam. :)</i></p>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## ✨ GitHub Stats   
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 ### Hi there 👋 
-! My name is Do Hong Son. I am a young student about to graduate, full of passion and enthusiasm. With the knowledge and skills I practice and study, my sense.
+My name is Do Hong Son, and I graduated with a degree in Information Management from Vietnam National University (VNU). I have a strong passion for working with data and turning it into meaningful insights to support decision-making.
+
 **About me**
 ### 📈 Statistics
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonAz&theme=radical)
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 ** AI and Security** 
 | **AI**                 | **Machine Learning**  | **Deep Learning**   |
 |------------------------|-----------------------|---------------------|
-| **Data Analysis**      | **Data Engineering**  | **Data Science**    |
+| **Data Analyst**      | **Data Engineering**  | **Data Science**    |
 
 ## Badges & Tools Overview
 
