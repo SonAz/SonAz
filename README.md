@@ -29,14 +29,18 @@ My name is Do Hong Son, and I graduated with a degree in Information Management 
 ### 📈 Statistics
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonAz&theme=radical" alt="Stats"; />
+    </td>
+    <td width="50%">
+      <img src="github/assets/coding.gif" alt="gif" align="right" />
+    </td>
+  </tr>
+</table>
 
-<table>
-<tr>
-  <td width="52%"><img alt="gif" align="right" src=".assets/coding.gif"/></td>
-</tr>
-<table>
 ----
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonAz&theme=radical)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonAz&theme=onedark" width="86.5%"/>
 
