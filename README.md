@@ -32,7 +32,7 @@ My name is Do Hong Son, and I graduated with a degree in Information Management 
 
 <table>
 <tr>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src=".assets/coding.gif"/></td>
 </tr>
 <table>
 ----
