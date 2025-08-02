@@ -28,7 +28,6 @@ My name is Do Hong Son, and I graduated with a degree in Information Management 
 **About me**
 ### 📈 Statistics
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 <table>
   <tr>
     <td width="50%">
