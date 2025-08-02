@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center" style="color:#ff69b4;"><a href="https://www.linkedin.com/in/sonaz2804">Hello! I'm Sơn</h1>
 <p align="center"><i style="color:#9370DB;"> I am a passionate self-taught data student from Vietnam. :)</i></p>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" />
 
 ## ✨ GitHub Stats   
 
