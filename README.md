@@ -44,10 +44,10 @@ My name is Do Hong Son, and I graduated with a degree in Information Management 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonAz&theme=onedark" width="86.5%"/>
 
 ### 📚 Research Areas
-** AI and Security** 
-| **AI**                 | **Machine Learning**  | **Deep Learning**   |
-|------------------------|-----------------------|---------------------|
-| **Data Analyst**      | **Data Engineering**  | **Data Science**    |
+** Data Engineering ** 
+| **Data Analyst**       | **Data Mining**       | **Database**              | **BigData**        |
+|------------------------|-----------------------|---------------------------|-------------------|
+| **Automation**         | **Database**          | **Data Quality**          | **Security Data** |
 
 ## Badges & Tools Overview
 
