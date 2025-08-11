@@ -45,9 +45,9 @@ My name is Do Hong Son, and I graduated with a degree in Information Management 
 
 ### 📚 Research Areas
 ** Data Engineering ** 
-| **Data Analyst**       | **Data Mining**       | **Database**              | **BigData**        |
-|------------------------|-----------------------|---------------------------|-------------------|
-| **Automation**         | **Database**          | **Data Quality**          | **Security Data** |
+| **ETL Pipelines**       | **Data Warehouse**         | **Database**              | **Big Data & Cloud**  |
+|-------------------------|--------------------------  |---------------------------|------------------------|
+| **Automation**          | **Data Processing Systems**| **Data Quality**          | **Security Data**      |
 
 ## Badges & Tools Overview
 
